@@ -1,0 +1,9 @@
+{
+  "searchTrade": {
+    "type": "Textfield",
+    "props": {
+      "label": "Search Text",
+      "required": true
+    }
+  }
+}

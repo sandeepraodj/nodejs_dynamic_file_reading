@@ -1,0 +1,9 @@
+{
+  "collection": {
+    "type": "Textfield",
+    "props": {
+      "label": "collection",
+      "required": true
+    }
+  }
+}

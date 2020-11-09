@@ -1,0 +1,9 @@
+{
+  "testData": {
+    "type": "Textfield",
+    "props": {
+      "label": "Test",
+      "required": true
+    }
+  }
+}

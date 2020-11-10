@@ -7,7 +7,7 @@ Clone Repository
 
 ```bash
 $ git clone https://github.com/sandeepraodj/nodejs_dynamic_file_reading.git
-$ cd nodejs_dynamic_file_reading.git
+$ cd nodejs_dynamic_file_reading
 ```
 
 Install dependencies:
